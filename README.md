@@ -190,3 +190,10 @@ kubectl get namespaces
 ## Project Outcome
 
 Successfully created and managed essential Kubernetes resources using declarative YAML manifests. The project demonstrates practical Kubernetes administration, including application deployment, service exposure, configuration management, namespace isolation, Role-Based Access Control (RBAC), and cluster management through the Kubernetes Dashboard. It showcases best practices for managing Kubernetes workloads using Infrastructure as Code principles.
+
+# Author
+
+**Seyi Akinmusere**
+
+DevOps | Cloud Engineer | AWS | Terraform | Jenkins | Docker | Kubernetes
+
